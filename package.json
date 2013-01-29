@@ -1,0 +1,9 @@
+{
+    "name": "require",
+    "version": "2.0.6",
+    "description": "Require.js Jam package",
+    "jam": {
+        "main": "node_modules/requirejs/require.js",
+        "include": ["node_modules/requirejs/require.js"]
+    }
+}
