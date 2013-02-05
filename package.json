@@ -3,7 +3,7 @@
     "version": "2.0.6",
     "description": "Require.js Jam package",
     "jam": {
-        "main": "require.js",
-        "include": ["require.js"]
+        "main": "require.min.js",
+        "include": ["require.min.js", "require.js"]
     }
 }
